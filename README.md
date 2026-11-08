@@ -114,23 +114,6 @@ I'm a student who loves building things for the web *and* telling stories throug
 
 </div>
 
----
-
-## 🔥 The Comeback Plan
-
-> I know a lot of tech. I forget it when I don't practice. So here's the fix, in public:
-
-- [ ] 💻 Commit something **every single day** (even small)
-- [ ] 🧠 Solve **1 LeetCode problem daily** to keep fundamentals sharp
-- [ ] 🛠️ Rebuild one old project from scratch, with *zero* tutorials
-- [ ] 📓 Write short notes on what I learn so I stop forgetting
-- [ ] 🚢 Ship one polished project every month
-
-<div align="center">
-
-**Watch the streak above. That's the accountability.** 👆
-
-</div>
 
 ---
 
