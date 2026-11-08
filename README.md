@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/darshankrlo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Darshan+%F0%9F%91%8B;2nd-year+%7C+Software+Product+Engineering;I+build+with+MERN+%7C+I+also+make+reels+%F0%9F%8E%AC;Relearning.+Rebuilding.+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Darshan+%F0%9F%91%8B;2nd-year+%7C+Software+Product+Engineering;I+build+with+MERN+%7C+I+also+make+weird+reels+%F0%9F%8E%AC;Relearning.+Rebuilding.+Shipping.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,10 +29,10 @@ const darshan = {
   year:      "2nd year",
   base:      "Bengaluru, India",
   stack:     ["MERN", "Python", "Java", "SQL"],
-  sideQuest: "Creating reels & building a personal brand 🎬",
+  sideQuest: "Making funny, weird reels 🎬",
   learning:  "Consistency > intensity",
   goal:      "Turn skills + content into something big",
-  funFact:   "I can ship a UI and also edit the reel about it",
+  funFact:   "I write code by day and make weird, funny reels by night",
 };
 ```
 
@@ -77,21 +77,15 @@ I'm a student who loves building things for the web *and* telling stories throug
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🎨 [**creator-space-frontend**](https://github.com/darshankrlo/creator-space-frontend) | A creator dashboard with React Router | `React` `JavaScript` |
-| 📝 [**notes-app-backend**](https://github.com/darshankrlo/notes-app-backend) | Backend for a notes app | `Node.js` `JavaScript` |
-| 🪔 [**vijayibhava_for_artisans**](https://github.com/darshankrlo/vijayibhava_for_artisans) | A platform idea for artisans | `JavaScript` |
-| ⏪ [**rewynd**](https://github.com/darshankrlo/rewynd) | Rewind-style project | `JavaScript` |
-| 🪪 [**profilecard**](https://github.com/darshankrlo/profilecard) | A clean profile card UI | `CSS` |
+## 🚀 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/darshankrlo?tab=repositories">
-  <img src="https://img.shields.io/badge/See_all_repositories-→-24c6dc?style=for-the-badge" alt="all repos" />
+<a href="https://portfolio-two-pi-ry8rwof9wt.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Click_to_explore-24c6dc?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
+
+*Everything I've built, in one place.* 👆
 
 </div>
 
@@ -131,7 +125,6 @@ I'm a student who loves building things for the web *and* telling stories throug
 - [ ] 🛠️ Rebuild one old project from scratch, with *zero* tutorials
 - [ ] 📓 Write short notes on what I learn so I stop forgetting
 - [ ] 🚢 Ship one polished project every month
-- [ ] 🎬 Post build-in-public reels about the journey
 
 <div align="center">
 
@@ -141,17 +134,16 @@ I'm a student who loves building things for the web *and* telling stories throug
 
 ---
 
-## 🎓 Learning & Certifications
+## 🎓 Currently Levelling Up
 
-- 📚 Collected a bunch of **Coursera** certificates across tech topics, now turning that knowledge into real projects
 - 🏫 Studying **Software Product Engineering** @ RV University × Kalvium
-- 🔭 Currently strengthening: **DSA, Java OOP, MERN full-stack**
+- 🔭 Strengthening: **DSA, Java OOP, MERN full-stack**
 
 ---
 
 ## 🎬 Beyond Code
 
-Code is one half of me. The other half is **content, creativity and storytelling**. I run [@darshankrlo](https://www.instagram.com/darshankrlo) where I make reels, and I'm building a personal brand where tech and creativity meet.
+Code is one half of me. The other half is chaos. I run [@darshankrlo](https://www.instagram.com/darshankrlo), where I make funny, weird reels that have nothing to do with tech. Come for the code, stay for the nonsense. 🤪
 
 ---
 
